@@ -9,6 +9,6 @@ Tuve varios problemas que me complicaron el desarrollo y quiero pasar a enumerar
  
 •El test instrumentado me tiraba el siguiente error y no pude resolverlo (PerformException: Error performing 'single click')
  
-•Al queres subir el proyecto a github no me dejaba por la cantidad de archivos que tiene el proyecto y no me permitio subir un unico zip con todo asi que lo pasti en 3 partes el zip 2 y 3 van dentro de la carpeta APP. Intente configurar mi android studio para realizar los commits desde ahi pero no me reconocia la cuenta y cuando ponia commit no hacia nada.
+•Intente configurar mi android studio para realizar los commits desde ahi pero no me reconocia la cuenta y cuando ponia commit no hacia nada.
 
 Voy a seguir intentando resolver estos problemas pero por la falta de tiempo no tuve mas remedio que entregar el proyecto en este estado, cabe resaltar que la aplicacion cumple sus funciones principales y se implemento correctamente todos los items exigidos.
